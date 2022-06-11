@@ -1,0 +1,8 @@
+C:\Users\полина\Desktop\Прога\repos\Parabola\02 048 CircleTheRainbow\bin\Debug\Glava 1.exe.config
+C:\Users\полина\Desktop\Прога\repos\Parabola\02 048 CircleTheRainbow\bin\Debug\Glava 1.exe
+C:\Users\полина\Desktop\Прога\repos\Parabola\02 048 CircleTheRainbow\bin\Debug\Glava 1.pdb
+C:\Users\полина\Desktop\Прога\repos\Parabola\02 048 CircleTheRainbow\obj\Debug\02 048 CircleTheRainbow.csproj.AssemblyReference.cache
+C:\Users\полина\Desktop\Прога\repos\Parabola\02 048 CircleTheRainbow\obj\Debug\02 048 CircleTheRainbow.csproj.SuggestedBindingRedirects.cache
+C:\Users\полина\Desktop\Прога\repos\Parabola\02 048 CircleTheRainbow\obj\Debug\02 048 CircleTheRainbow.csproj.CoreCompileInputs.cache
+C:\Users\полина\Desktop\Прога\repos\Parabola\02 048 CircleTheRainbow\obj\Debug\Glava 1.exe
+C:\Users\полина\Desktop\Прога\repos\Parabola\02 048 CircleTheRainbow\obj\Debug\Glava 1.pdb

@@ -1,0 +1,8 @@
+C:\Users\полина\Desktop\Прога\Proga\WPF2022\WPF2022\00 014 SayHello\bin\Debug\00 014 SayHello.exe.config
+C:\Users\полина\Desktop\Прога\Proga\WPF2022\WPF2022\00 014 SayHello\bin\Debug\00 014 SayHello.exe
+C:\Users\полина\Desktop\Прога\Proga\WPF2022\WPF2022\00 014 SayHello\bin\Debug\00 014 SayHello.pdb
+C:\Users\полина\Desktop\Прога\Proga\WPF2022\WPF2022\00 014 SayHello\obj\Debug\00 014 SayHello.csproj.AssemblyReference.cache
+C:\Users\полина\Desktop\Прога\Proga\WPF2022\WPF2022\00 014 SayHello\obj\Debug\00 014 SayHello.csproj.SuggestedBindingRedirects.cache
+C:\Users\полина\Desktop\Прога\Proga\WPF2022\WPF2022\00 014 SayHello\obj\Debug\00 014 SayHello.csproj.CoreCompileInputs.cache
+C:\Users\полина\Desktop\Прога\Proga\WPF2022\WPF2022\00 014 SayHello\obj\Debug\00 014 SayHello.exe
+C:\Users\полина\Desktop\Прога\Proga\WPF2022\WPF2022\00 014 SayHello\obj\Debug\00 014 SayHello.pdb

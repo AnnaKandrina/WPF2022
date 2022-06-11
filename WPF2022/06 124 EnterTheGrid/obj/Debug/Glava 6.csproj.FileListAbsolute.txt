@@ -1,0 +1,8 @@
+C:\Users\полина\Desktop\repos\Parabola\Glava 6\bin\Debug\Glava 1.exe.config
+C:\Users\полина\Desktop\repos\Parabola\Glava 6\bin\Debug\Glava 1.exe
+C:\Users\полина\Desktop\repos\Parabola\Glava 6\bin\Debug\Glava 1.pdb
+C:\Users\полина\Desktop\repos\Parabola\Glava 6\obj\Debug\Glava 6.csproj.AssemblyReference.cache
+C:\Users\полина\Desktop\repos\Parabola\Glava 6\obj\Debug\Glava 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\полина\Desktop\repos\Parabola\Glava 6\obj\Debug\Glava 6.csproj.CoreCompileInputs.cache
+C:\Users\полина\Desktop\repos\Parabola\Glava 6\obj\Debug\Glava 1.exe
+C:\Users\полина\Desktop\repos\Parabola\Glava 6\obj\Debug\Glava 1.pdb

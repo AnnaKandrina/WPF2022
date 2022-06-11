@@ -1,0 +1,3 @@
+C:\Users\полина\Desktop\Прога\repos\Parabola\10 208 GetMedieval\obj\Debug\10 198 GetMedieval.csproj.AssemblyReference.cache
+C:\Users\полина\Desktop\Прога\repos\Parabola\10 208 GetMedieval\obj\Debug\10 198 GetMedieval.csproj.SuggestedBindingRedirects.cache
+C:\Users\полина\Desktop\Прога\repos\Parabola\10 208 GetMedieval\obj\Debug\10 198 GetMedieval.csproj.CoreCompileInputs.cache
