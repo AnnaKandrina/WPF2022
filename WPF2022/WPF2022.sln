@@ -135,7 +135,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 198 GetMedieval", "..\..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 288 ListColorsEvenElegantlier", "..\..\..\repos\Parabola\13 288 ListColorsEvenElegantlier\13 288 ListColorsEvenElegantlier.csproj", "{CCA53C64-D99B-41CA-BC7A-6E94654A46F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-305 CheckTheColor", "..\..\..\repos\Parabola\14-305 CheckTheColor\14-305 CheckTheColor.csproj", "{4F01738A-E5EF-4C78-982C-45E18CFBEC28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 305 CheckTheColor", "..\..\..\repos\Parabola\14-305 CheckTheColor\14 305 CheckTheColor.csproj", "{4F01738A-E5EF-4C78-982C-45E18CFBEC28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
