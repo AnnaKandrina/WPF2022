@@ -141,6 +141,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 037 VaryTheBackground", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 064 ShapeAnEllipse", "03 064 ShapeAnEllipse\03 064 ShapeAnEllipse.csproj", "{65B588DB-6ADA-470D-A27E-B621CDB007AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 080 CommandTheButton", "04 080 CommandTheButton\04 080 CommandTheButton.csproj", "{8A449064-7245-471E-898D-C92E78191FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 097 StackTenButtons", "05 097 StackTenButtons\05 097 StackTenButtons.csproj", "{8DA824AA-0B2B-43B6-A820-F41903B36A84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,6 +427,14 @@ Global
 		{65B588DB-6ADA-470D-A27E-B621CDB007AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65B588DB-6ADA-470D-A27E-B621CDB007AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65B588DB-6ADA-470D-A27E-B621CDB007AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A449064-7245-471E-898D-C92E78191FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A449064-7245-471E-898D-C92E78191FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A449064-7245-471E-898D-C92E78191FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A449064-7245-471E-898D-C92E78191FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA824AA-0B2B-43B6-A820-F41903B36A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA824AA-0B2B-43B6-A820-F41903B36A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA824AA-0B2B-43B6-A820-F41903B36A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA824AA-0B2B-43B6-A820-F41903B36A84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
