@@ -137,6 +137,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 288 ListColorsEvenElegan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 017 HandleAnEvent", "01 017 HandleAnEvent\01 017 HandleAnEvent.csproj", "{FB8F4E50-974D-491A-89A5-3D06F7BC153A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 037 VaryTheBackground", "02 037 VaryTheBackground\02 037 VaryTheBackground.csproj", "{AE39A5BD-C1F1-4A89-B1C1-3A92077EDBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 064 ShapeAnEllipse", "03 064 ShapeAnEllipse\03 064 ShapeAnEllipse.csproj", "{65B588DB-6ADA-470D-A27E-B621CDB007AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +415,14 @@ Global
 		{FB8F4E50-974D-491A-89A5-3D06F7BC153A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB8F4E50-974D-491A-89A5-3D06F7BC153A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB8F4E50-974D-491A-89A5-3D06F7BC153A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE39A5BD-C1F1-4A89-B1C1-3A92077EDBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE39A5BD-C1F1-4A89-B1C1-3A92077EDBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE39A5BD-C1F1-4A89-B1C1-3A92077EDBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE39A5BD-C1F1-4A89-B1C1-3A92077EDBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B588DB-6ADA-470D-A27E-B621CDB007AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B588DB-6ADA-470D-A27E-B621CDB007AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B588DB-6ADA-470D-A27E-B621CDB007AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B588DB-6ADA-470D-A27E-B621CDB007AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
