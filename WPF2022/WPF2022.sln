@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 198 GetMedieval", "10 19
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 288 ListColorsEvenElegantlier", "13 288 ListColorsEvenElegantlier\13 288 ListColorsEvenElegantlier.csproj", "{CCA53C64-D99B-41CA-BC7A-6E94654A46F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 017 HandleAnEvent", "01 017 HandleAnEvent\01 017 HandleAnEvent.csproj", "{FB8F4E50-974D-491A-89A5-3D06F7BC153A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -405,6 +407,10 @@ Global
 		{CCA53C64-D99B-41CA-BC7A-6E94654A46F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCA53C64-D99B-41CA-BC7A-6E94654A46F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCA53C64-D99B-41CA-BC7A-6E94654A46F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8F4E50-974D-491A-89A5-3D06F7BC153A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8F4E50-974D-491A-89A5-3D06F7BC153A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8F4E50-974D-491A-89A5-3D06F7BC153A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8F4E50-974D-491A-89A5-3D06F7BC153A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
