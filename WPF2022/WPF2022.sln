@@ -147,6 +147,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 097 StackTenButtons", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 143 Tile", "07 143 Tile\07 143 Tile.csproj", "{D6652F53-6975-45A2-8A3F-AEB7AAF59301}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 157 SpaceButton", "08 157 SpaceButton\08 157 SpaceButton.csproj", "{F9D18BAD-493B-4890-88FD-23F309616472}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,10 @@ Global
 		{D6652F53-6975-45A2-8A3F-AEB7AAF59301}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6652F53-6975-45A2-8A3F-AEB7AAF59301}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6652F53-6975-45A2-8A3F-AEB7AAF59301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D18BAD-493B-4890-88FD-23F309616472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D18BAD-493B-4890-88FD-23F309616472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D18BAD-493B-4890-88FD-23F309616472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D18BAD-493B-4890-88FD-23F309616472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
